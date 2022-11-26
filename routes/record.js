@@ -4,6 +4,10 @@ const recordRoutes = express.Router();
 
 const dbo = require("../db/conn");
 
+recordRoutes.route("/").get(async function (req, res) {
+  res.send("Hello World")
+});
+
 recordRoutes.route("/department").get(async function (req, res) {
   const dbConnect = dbo.getDb();
 
