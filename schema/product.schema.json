@@ -1,0 +1,14 @@
+{
+  "name": "Lenovo ThinkPad X1",
+  "type": "LAPTOP",
+  "price": "2603",
+  "currency": "EUR",
+  "amazonLink": "shorturl.at/akTUW",
+  "metadata": [
+      {
+        "type": "RAM",
+        "value": "16",
+        "measurement": "GB"
+      }
+  ]
+}

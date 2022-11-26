@@ -1,0 +1,28 @@
+{
+  "name": "IT",
+  "devices": [
+    {
+      "type": "LAPTOP",
+      "additionalRequirement": [
+        {
+          "type": "RAM",
+          "value": "8",
+          "measurement": "GB"
+        }
+      ]
+    },
+    {
+      "type": "HEAD_PHONE",
+      "additionalRequirement": [
+        {
+          "type": "RAM",
+          "value": "8",
+          "measurement": "GB"
+        }
+      ]
+    },
+    {
+      "type": "MONITOR"
+    }
+  ]
+}
